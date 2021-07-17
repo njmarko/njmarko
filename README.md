@@ -1,4 +1,4 @@
-![njmarko's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njmarko&langs_count=10&layout=compact&hide=html,css,c,javascript&hide_border=1&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+![njmarko's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njmarko&langs_count=10&layout=compact&hide=html,css&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![njmarko's github stats](https://github-readme-stats.vercel.app/api?username=njmarko&include_all_commits=true&show_icons=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
 <!--
