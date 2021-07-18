@@ -1,5 +1,5 @@
-![njmarko's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njmarko&langs_count=10&layout=compact&hide=html,css&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
-![njmarko's github stats](https://github-readme-stats.vercel.app/api?username=njmarko&include_all_commits=true&show_icons=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+![njmarko's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njmarko&langs_count=10&layout=compact&hide=html,css&hide_border=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+![njmarko's github stats](https://github-readme-stats.vercel.app/api?username=njmarko&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
 <!--
 **njmarko/njmarko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
