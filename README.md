@@ -1,8 +1,9 @@
-<div float="left">
-  <span width="50%"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njmarko&langs_count=8&layout=compact&hide=html,css&hide_border=true&count_private=true&theme=cobalt&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+<div>
+  <span>
+    <img width="36%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njmarko&langs_count=8&layout=compact&hide=html,css&hide_border=true&count_private=true&theme=cobalt&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
   </span>
-  <span width="50%">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=njmarko&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&theme=cobalt&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+  <span>
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=njmarko&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&theme=cobalt&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
   </span>
 </div>
   
