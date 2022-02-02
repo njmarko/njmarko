@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <span>
     <img width="36%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njmarko&langs_count=8&layout=compact&hide=html,css,jupyter notebook&hide_border=true&count_private=true&theme=cobalt&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
   </span>
